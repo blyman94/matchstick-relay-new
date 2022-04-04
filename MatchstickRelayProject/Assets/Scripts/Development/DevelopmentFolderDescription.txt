@@ -1,0 +1,1 @@
+This folder contains scripts not directly related to the module being developed. They may be deleted or solidified into a module later on.
